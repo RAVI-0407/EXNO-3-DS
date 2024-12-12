@@ -241,6 +241,6 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/fc48d433-c0bd-4455-8c05-32311a51aeb7)
 
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+       successfully performed Feature Encoding and Transformation process
 
        
